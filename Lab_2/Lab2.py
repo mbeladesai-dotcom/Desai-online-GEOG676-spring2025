@@ -26,3 +26,4 @@ for i in part3:
 
 print ('The result of third question  is:', result3)
     
+ 
